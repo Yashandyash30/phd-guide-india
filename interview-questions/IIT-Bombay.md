@@ -1,14 +1,14 @@
 # IIT Bombay - PhD Interview Questions (Physics)
 
-### 📅 Year: 2025
-### 🧪 Field: Astrophysics
+###  Year: 2025
+###  Field: Astrophysics
 
-#### Interview Format:
+## Interview Format:
 - **Number of Panel Members:** 3-4  
 - **Mode:** Online Interview  
 - **Rounds:** 1 
 
-#### Questions:
+## Questions:
 1. **Asked me to give my basic introduction.**
     
 2. **Told me to plot the sin(1/x) graph. How would it look like in the positive x-domain.**
