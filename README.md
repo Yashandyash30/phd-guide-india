@@ -19,18 +19,15 @@ This guide includes:
 ## 📬 Contribute
 If you’ve appeared for interviews or have helpful advice, check the [contributions.md](contributions.md) file to see how to contribute.
 
----
-**Maintainer**: [Yash Sharma](https://github.com/yourusername)
 
 ---
 
-##  **Helpful Tips for PhD Interviews**
+ **Helpful Tips for PhD Interviews**
 
 These are essential behavioral and strategic tips to help you **ace your PhD interview** with confidence and clarity:
 
----
 
-###  **Mindset & Communication**
+  **Mindset & Communication**
 
 1. **Be Confident and Calm**
     
