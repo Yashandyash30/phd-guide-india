@@ -22,7 +22,7 @@ If you’ve appeared for interviews or have helpful advice, check the [contribut
 
 ---
 
- **Helpful Tips for PhD Interviews**
+ ## **Helpful Tips for PhD Interviews**
 
 These are essential behavioral and strategic tips to help you **ace your PhD interview** with confidence and clarity:
 
