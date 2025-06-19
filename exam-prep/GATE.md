@@ -27,7 +27,7 @@ GATE (Physics - PH) is an important exam for PhD admissions and fellowship eligi
   - EM: Griffiths / Sadiku
 - 🧠 **Practice**:
   - Solve past 10–15 years' GATE papers
-  - Use test series from platforms like Unacademy, Exergic, or Physics by Physics
+  - Use test series from platforms like Physics Tadka, D Physics, Physics by A Singh, Career Endeavour or Fiziks.
 - 🔁 **Revise**:
   - Create formula sheets and concept maps
 
