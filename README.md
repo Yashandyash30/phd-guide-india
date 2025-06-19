@@ -47,8 +47,7 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
     - Even if your final answer is incorrect, a solid approach can leave a strong impression. 
 6. **Break the Problem into Parts**
     - When stuck, break down the question into smaller, manageable pieces. 
-    - Discuss assumptions, physical intuition, and known principles.
-        
+    - Discuss assumptions, physical intuition, and known principles.     
 7. **Think Aloud**
     - Verbalize your thought process clearly and logically. 
     - This helps interviewers follow your reasoning and offer hints if needed. 
@@ -57,7 +56,7 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
         
   **Preparation Habits**
 
-9.   **Read Standard Textbooks for Strong Theoretical Foundation**
+9.  **Read Standard Textbooks for Strong Theoretical Foundation**
 10. **Review Your Projects and Workshops Thoroughly**
     - Be ready to explain the physics, purpose, and outcome of any activity listed on your CV. 
 11. **Keep a Conceptual Overview of Core Topics**
