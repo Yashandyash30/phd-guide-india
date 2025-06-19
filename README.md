@@ -22,7 +22,7 @@ If you’ve appeared for interviews or have helpful advice, check the [contribut
 ---
 **Maintainer**: [Yash Sharma](https://github.com/yourusername)
 
-
+---
 
 ##  **Helpful Tips for PhD Interviews**
 
@@ -110,6 +110,7 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
 	    
 
 ---
+**Maintainer**: [Yash Sharma](https://github.com/yourusername)
 
 ### 💡 **Final Thought**
 
