@@ -107,12 +107,13 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
 	- Discuss concepts with peers or mentors.
 	    
 	- Practice answering open-ended and research-style questions.
-	    
 
----
-**Maintainer**: [Yash Sharma](https://github.com/yourusername)
-
-### 💡 **Final Thought**
+ #### 💡 **Final Thought**
 
 > _“You are not expected to know everything — but you are expected to show how you think.”_
+
+---
+**Maintainer**: [Yash Sharma](https://github.com/Yashandyash30)
+
+
 
