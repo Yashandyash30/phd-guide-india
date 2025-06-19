@@ -1,7 +1,11 @@
 # **PhD Physics Interview IISER PUNE**
 
+###  Year: 2025
+###  Field: Astrophysics
+
+## Interview Format:
 **Number of Panel Members:** 3  ( in first round ) & 2 ( in Second Interview)
-**Mode:** Oral Interview  
+**Mode:** Offline-Inperson Interview  
 **Rounds:** 2 (Technical + Discussion)
 
 
