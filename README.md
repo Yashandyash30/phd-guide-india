@@ -19,7 +19,6 @@ This guide includes:
 ## 📬 Contribute
 If you’ve appeared for interviews or have helpful advice, check the [contributions.md](contributions.md) file to see how to contribute.
 
-
 ---
 
  ## **Helpful Tips for PhD Interviews**
