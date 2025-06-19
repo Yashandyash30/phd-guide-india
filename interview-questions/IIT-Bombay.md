@@ -1,4 +1,4 @@
-# IIT Bombay - PhD Interview Questions (Physics)
+# IIT Bombay - PhD Interview (Physics)
 
 ###  Year: 2025
 ###  Field: Astrophysics
