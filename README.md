@@ -54,9 +54,9 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
     - Make it a two-way dialogue rather than a one-sided response.
         
 
----
 
-###  **Problem-Solving Strategy**
+
+ **Problem-Solving Strategy**
 
 5. **Focus on the Approach, Not Just the Final Answer**
     
@@ -81,9 +81,9 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
     - Show your ability to **relate abstract problems** to familiar concepts or real-world systems.
         
 
----
 
-###  **Preparation Habits**
+
+  **Preparation Habits**
 
 9.   **Read Standard Textbooks for Strong Theoretical Foundation**
 
@@ -105,7 +105,7 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
 	    
 	- Practice answering open-ended and research-style questions.
 
- #### 💡 **Final Thought**
+ 💡 **Final Thought**
 
 > _“You are not expected to know everything — but you are expected to show how you think.”_
 
