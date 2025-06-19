@@ -14,7 +14,7 @@ We welcome contributions from students, researchers, and alumni!
 3. Send a Pull Request (PR)
 
 You can also email content if you're not familiar with GitHub.
-
+Email : yashandyash30@gmail.com
 ---
 
 Thank you for making this community stronger!
