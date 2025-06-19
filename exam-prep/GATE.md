@@ -30,6 +30,7 @@ GATE (Physics - PH) is an important exam for PhD admissions and fellowship eligi
   - Use test series from platforms like Physics Tadka, D Physics, Physics by A Singh, Career Endeavour or Fiziks.
 - 🔁 **Revise**:
   - Create formula sheets and concept maps
+  - Notice that there are a lot of repeated questions types or some topics from which there are questions asked almost every year. Understand these topics/questions in detail, they will add atleast 10-15 marks to your total.
 
 ---
 
