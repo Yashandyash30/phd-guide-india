@@ -25,7 +25,6 @@ If you’ve appeared for interviews or have helpful advice, check the [contribut
 
 These are essential behavioral and strategic tips to help you **ace your PhD interview** with confidence and clarity:
 
-
   **Mindset & Communication**
 
 1. **Be Confident and Calm**
@@ -56,7 +55,6 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
 8. **Use Analogies or Relate to Known Concepts**
     - Show your ability to **relate abstract problems** to familiar concepts or real-world systems.
         
-
   **Preparation Habits**
 
 9.   **Read Standard Textbooks for Strong Theoretical Foundation**
@@ -65,10 +63,11 @@ These are essential behavioral and strategic tips to help you **ace your PhD int
 11. **Keep a Conceptual Overview of Core Topics**
     - Develop a strong foundation in classical mechanics, electrodynamics, quantum mechanics, and mathematical methods.
 12. **Stay Curious and Updated**
-- Know about **current research trends**, **space missions**, and **recent Nobel-winning work** in physics.
+    - Know about **current research trends**, **space missions**, and **recent Nobel-winning work** in physics.
 13. **Practice Mock Interviews**
-	- Discuss concepts with peers or mentors. 
-	- Practice answering open-ended and research-style questions.
+    - Discuss concepts with peers or mentors. 
+    - Practice answering open-ended and research-style questions.
+      
  💡 **Final Thought**
 
 > _“You are not expected to know everything — but you are expected to show how you think.”_
