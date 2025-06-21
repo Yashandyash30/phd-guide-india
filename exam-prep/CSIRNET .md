@@ -45,6 +45,6 @@ When applying for the exam, candidates can choose one of the following **categor
 * **Conducting Body:** NTA (National Testing Agency) on behalf of CSIR
 
 ##  Important Links
-* [CSIR-NET Official Site](https://gate2025.iitr.ac.in/index.html](https://csirnet.nta.ac.in/)
-* [Previous Year Papers](https://gate2025.iitr.ac.in/download.html](https://www.csirhrdg.res.in/Home/Index/1/Default/2769/81)
+* [CSIR-NET Official Site](https://csirnet.nta.ac.in/)
+* [Previous Year Papers](https://www.csirhrdg.res.in/Home/Index/1/Default/2769/81)
 * [CSIR-NET Syllabus](https://csirhrdg.res.in/SiteContent/ManagedContent/ContentFiles/20181113115324688mcs_ph_sylbs.pdf)
