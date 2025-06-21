@@ -35,5 +35,5 @@ GATE (Physics - PH) is an important exam for PhD admissions and fellowship eligi
 ---
 
 ### 📝 Important Links
-- [GATE Official Site](https://gate.iitkgp.ac.in/)
-- [Previous Year Papers – IIT Delhi](https://gate.iitd.ac.in/)
+- [GATE Official Site]([https://gate.iitkgp.ac.in/](https://gate2025.iitr.ac.in/index.html))
+- [Previous Year Papers – IIT Delhi]([https://gate.iitd.ac.in/](https://gate2025.iitr.ac.in/download.html))
