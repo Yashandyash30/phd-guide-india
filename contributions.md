@@ -34,13 +34,18 @@ We will regularly review and upload valid entries with proper credit.
 Here’s a sample format for interview questions:
 
 ```markdown
-# IISER Pune – Astrophysics Interview (June 2024)
+# IISER Pune – Astrophysics Interview 
 
-**Mode:** Online  
-**Panel:** 4 Professors  
-**Written Test:** No  
+###  Year: 2025
+###  Field: Astrophysics
 
-### Questions:
+## Interview Format:
+- **Number of Panel Members:** 3-4  
+- **Mode:** Online Interview  
+- **Rounds:** 1
+- **Written Test:** No
+
+## Questions:
 - What is Jeans instability? Derive the critical mass.
 - How do neutrinos escape from a collapsing star?
 - Explain gravitational redshift.
