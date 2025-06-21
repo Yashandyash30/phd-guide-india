@@ -12,11 +12,11 @@ The **Physical Sciences paper** (Subject Code: **PH**) assesses a candidate’s 
 
 ---
 
-### 🎓 **Eligibility Categories**
+###  **Eligibility Categories**
 
 When applying for the exam, candidates can choose one of the following **categories** based on their qualifications and goals:
 
-#### 1. ✅ **JRF + Lectureship (NET)**
+#### 1. **JRF + Lectureship (NET)**
 
 * Qualifies candidates for:
 
@@ -24,21 +24,21 @@ When applying for the exam, candidates can choose one of the following **categor
   * **Eligibility for Assistant Professor/Lecturer**
 * **Age Limit:** 28 years (relaxation for SC/ST/OBC/PwD/female candidates)
 
-#### 2. ✅ **Lectureship (NET) only**
+#### 2. **Lectureship (NET) only**
 
 * Qualifies candidates for:
 
   * **Assistant Professor/Lecturer** roles at universities and colleges
 * **No age limit** for this category
 
-#### 3. ✅ **PhD Admission**
+#### 3. **PhD Admission**
 
 * Many research institutes and universities accept **CSIR NET (JRF)** scores as part of their PhD admission process.
 * Having a **valid JRF score** strengthens your application and may offer direct interviews or fellowships.
 
 ---
 
-### 📝 **Exam Mode and Frequency**
+### **Exam Mode and Frequency**
 
 * **Mode:** Computer-Based Test (CBT)
 * **Frequency:** Conducted **twice a year** (typically in **June** and **December**)
