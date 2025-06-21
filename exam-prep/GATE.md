@@ -157,6 +157,10 @@ Here’s the extracted **GATE Physics (PH) paper pattern** from the IIT Roorkee 
 
 ---
 
-### 📝 Important Links
-- [GATE Official Site]([https://gate.iitkgp.ac.in/](https://gate2025.iitr.ac.in/index.html)
-- [Previous Year Papers – IIT Delhi]([https://gate.iitd.ac.in/](https://gate2025.iitr.ac.in/download.html)
+##  Important Links
+
+* [GATE Official Site](https://gate2025.iitr.ac.in/index.html)
+* [Previous Year Papers – IIT Roorkee (2025)](https://gate2025.iitr.ac.in/download.html)
+
+
+
