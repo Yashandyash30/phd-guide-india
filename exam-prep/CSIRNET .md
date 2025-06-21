@@ -47,4 +47,5 @@ When applying for the exam, candidates can choose one of the following **categor
 ##  Important Links
 * [CSIR-NET Official Site](https://csirnet.nta.ac.in/)
 * [Previous Year Papers](https://www.csirhrdg.res.in/Home/Index/1/Default/2769/81)
-* [CSIR-NET Syllabus](https://csirhrdg.res.in/SiteContent/ManagedContent/ContentFiles/20181113115324688mcs_ph_sylbs.pdf)
+* [CSIR-NET Physical Sciencs Syllabus](https://csirhrdg.res.in/SiteContent/ManagedContent/ContentFiles/20181113115324688mcs_ph_sylbs.pdf)
+* [CIR-NET Physical Sciencs Paper Pattern](Physical Sciencs)
