@@ -1,17 +1,13 @@
 # GATE Physics Preparation Guide
 
-### 📘 Overview
+## **Overview**
 
 GATE (Physics - PH) is an important exam for PhD admissions and fellowship eligibility at IITs, IISERs, and other research institutes.
 
 ---
 
-### 📚 Syllabus 
-Here is the extracted **GATE Physics (PH)** syllabus from the provided PDF:
 
----
-
-## 📘 **GATE Physics (PH) Syllabus**
+##  **GATE Physics (PH) Syllabus**
 
 ### **Section 1: Mathematical Physics**
 
@@ -97,7 +93,55 @@ Here is the extracted **GATE Physics (PH)** syllabus from the provided PDF:
 
 ---
 
-### 🛠 Preparation Strategy
+Here’s the extracted **GATE Physics (PH) paper pattern** from the IIT Roorkee site:
+
+---
+
+##  **GATE PH (Physics) – Paper Pattern**
+
+### 1. Exam Duration & Format
+
+* **Total Duration:** 3 hours
+* **Total Questions:** 65
+
+  * **General Aptitude:** 10 questions (15 marks)
+  * **Subject-Specific:** 55 questions (85 marks) ([gate2025.iitr.ac.in][1], [en.wikipedia.org][2])
+
+### 2. Question Types
+
+* **Multiple Choice Questions (MCQs):** 4 options, one correct answer; negative marking applies
+* **Multiple Select Questions (MSQs):** one or more correct options; **no negative marking**
+* **Numerical Answer Type (NAT) Questions:** answer is a real number; **no negative marking** ([en.wikipedia.org][2])
+
+### 3. Marking Scheme
+
+* **General Aptitude Section (10 Qs):**
+
+  * 5 questions worth **1 mark**
+  * 5 questions worth **2 marks**
+  * Total GA weight: 15 marks ([en.wikipedia.org][2])
+
+* **Physics Section (55 Qs):**
+
+  * Approximately 25 questions worth **1 mark**
+  * Approximately 30 questions worth **2 marks**
+  * Total Physics weight: \~85 marks ([gate2025.iitr.ac.in][1], [en.wikipedia.org][2])
+
+### 4. Negative Marking
+
+* **MCQs:**
+
+  * –0.33 for wrong 1‑mark questions
+  * –0.66 for wrong 2‑mark questions
+* **MSQs & NATs:**
+
+  * No negative marking ([en.wikipedia.org][2], [gate2025.iitr.ac.in][1])
+
+[1]: https://gate2025.iitr.ac.in/question-paper-pattern.html?utm_source=chatgpt.com "Question Paper Pattern - GATE 2025 - IIT Roorkee"
+[2]: https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering?utm_source=chatgpt.com "Graduate Aptitude Test in Engineering"
+---
+
+##  **Preparation Strategy**
 
 - 📖 **Books**:
   - Quantum: Griffiths
