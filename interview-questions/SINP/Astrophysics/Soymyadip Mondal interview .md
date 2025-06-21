@@ -36,7 +36,7 @@
 
    * What is the average energy of the system at
 
-     * $T = 0 \, \text{K}$
+     * $T = 0  \text{K}$
      * $T \to \infty$
 
 5. **Can you briefly explain how stars are formed?**
