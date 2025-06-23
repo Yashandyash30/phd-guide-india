@@ -38,6 +38,6 @@
     
 13. **How does the temperature of the system increase? What happens at the interparticle level?**
     
-14. **Draw the graph of 1x3−1x4\frac{1}{x^3} - \frac{1}{x^4}.**
+14. **Draw the graph of $\frac{1}{x^3} - \frac{1}{x^4}$.**
     
 
